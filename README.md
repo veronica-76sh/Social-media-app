@@ -55,7 +55,7 @@ https://www.loom.com/share/d0c4da90d41448e9a1fcb3b185954aa1
 Clone the project
 
 ```bash
-  git clone https://github.com/ichiragtaluja/react-social-media.git
+  git https://github.com/veronica-76sh/Social-media-app
 ```
 
 Go to the project directory

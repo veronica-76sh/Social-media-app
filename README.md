@@ -10,9 +10,7 @@ Social Media App "Quack" built in ReactJs.
 
 <img width="1425" alt="Screenshot 2023-06-30 at 1 29 32 PM" src="https://github.com/ichiragtaluja/react-social-media/assets/114881862/05f5a663-f08d-4941-8e01-a8b238d2039a">
 
-## Demo
 
-https://www.loom.com/share/d0c4da90d41448e9a1fcb3b185954aa1
 
 
 ## Tech Stack
